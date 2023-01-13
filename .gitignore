@@ -25,6 +25,7 @@ node_modules
 /release/build
 .erb/dll
 
+.env
 .idea
 npm-debug.log.*
 *.css.d.ts
